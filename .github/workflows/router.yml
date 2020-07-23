@@ -158,4 +158,4 @@ jobs:
 
 
 
-      run: surge ./build http://shoestorebyadil.surge.sh/ --token ${{ secrets.SURGE_TOKEN1 }}
+      run: surge ./build http://shoestorebyadil.surge.sh/ --token ${{ secrets.SURGE_TOKEN2 }}
